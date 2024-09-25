@@ -19,6 +19,20 @@ public class Main {
     }
         //Test4
     System.out.println("Test4");
+    for (int i = 10; i >= -10; i--) {
+      System.out.println(i);
+    }
+    //Test5
+    System.out.println("Test5");
+    for (int i = 1904; i <= 2096; i = i+4) {
+      System.out.println(i);
+    }
+//Test6
+    System.out.println("Test6");
+
+
+
+
 
   }
 }
